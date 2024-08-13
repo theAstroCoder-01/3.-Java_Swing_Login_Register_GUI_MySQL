@@ -54,3 +54,12 @@
 </body>
 
 </html>
+
+![login_form](https://github.com/user-attachments/assets/75b7ee6c-0932-42e6-81c5-199360975fb5)
+
+![register_form](https://github.com/user-attachments/assets/36abee4f-6b05-41bc-8329-d1cd6f159abe)
+
+
+
+
+
