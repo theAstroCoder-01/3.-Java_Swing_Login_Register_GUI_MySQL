@@ -42,7 +42,7 @@
 <h3 id="commonconstants">CommonConstants</h3>
 <p>The <code>CommonConstants</code> class holds constant values used throughout the application, such as color codes for UI elements and database connection details.</p>
 
-<h2>Usage</h2>
+<h2>How to use</h2>
 
 <p>To use the <strong>AppLauncher</strong> application:</p>
 <ol>
