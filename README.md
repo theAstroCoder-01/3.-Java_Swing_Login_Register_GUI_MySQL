@@ -7,7 +7,7 @@
 
 <p><strong>Login_Register_GUI_MySQL</strong> is a Java application that offers a simple user authentication system using Swing graphical interface components. Allows users to log in and register for an account. The project is made up of several classes that manage different aspects of the application's operation. 
 
-<h2>Contents</h2>
+<h2>Index</h2>
 
 <ol>
    <li><a href="#classes">Classes</a>
