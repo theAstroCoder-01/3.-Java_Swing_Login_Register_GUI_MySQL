@@ -42,15 +42,6 @@
 <h3 id="commonconstants">CommonConstants</h3>
 <p>The <code>CommonConstants</code> class holds constant values used throughout the application, such as color codes for UI elements and database connection details.</p>
 
-<h2>How to use</h2>
-
-<p>To use the <strong>AppLauncher</strong> application:</p>
-<ol>
-    <li>Ensure you have a MySQL database set up with the required schema.</li>
-    <li>Update the database connection details in the <code>CommonConstants</code> class.</li>
-    <li>Compile and run the <code>AppLauncher</code> class.</li>
-    <li>The login form will appear, allowing users to log in with existing credentials or register for a new account.</li>
-</ol>
 </body>
 
 </html>
